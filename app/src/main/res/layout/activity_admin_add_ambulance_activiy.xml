@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_color"
+    tools:context=".AdminAddAmbulanceActiviy">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <EditText
+            android:id="@+id/emailAddAmbulance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="100dp"
+            android:hint="Enter email Adress"
+            android:inputType="textPersonName"
+            android:textSize="13sp"
+            android:textColorHint="#F3EFEF"
+            android:textColor="#F3EFEF"
+            />
+
+        <EditText
+            android:id="@+id/nameAddAmbulanceId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:textSize="13sp"
+            android:textColorHint="#F3EFEF"
+            android:textColor="#F3EFEF"
+            />
+
+        <EditText
+            android:id="@+id/phoneAddAmbulanceId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"
+            android:hint="Phone"
+            android:inputType="phone"
+            android:textSize="13sp"
+            android:textColorHint="#F3EFEF"
+            android:textColor="#F3EFEF"
+            />
+
+
+
+        <Spinner
+            android:id="@+id/locationSpinnerAddAmbulanceId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"
+            />
+
+
+        <TextView
+            android:id="@+id/addButtonAddAmbulance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+            android:textStyle="bold"
+            android:text="Add"
+            android:padding="8dp"
+            android:background="@drawable/button_style"
+            android:layout_gravity="center"
+            android:textColor="#F3EEEE"
+            android:gravity="center"
+            android:textAllCaps="true"
+            />
+
+        <TextView
+            android:id="@+id/deleteAmbulanceAdminId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_marginEnd="25dp"
+            android:layout_marginStart="25dp"
+            android:textStyle="bold"
+            android:text="Delete Donor"
+            android:padding="8dp"
+            android:background="@drawable/button_style"
+            android:layout_gravity="center"
+            android:textColor="#F3EEEE"
+            android:gravity="center"
+            android:textAllCaps="true"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+

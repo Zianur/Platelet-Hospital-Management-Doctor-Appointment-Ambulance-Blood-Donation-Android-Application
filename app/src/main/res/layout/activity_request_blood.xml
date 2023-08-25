@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_color"
+    tools:context=".RequestBloodActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp">
+
+            <Spinner
+                android:id="@+id/locationRequestBloodId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                />
+
+            <Spinner
+                android:id="@+id/bloodGroupRequestBloodId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                />
+
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/dateRBId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="select date"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textSize="13dp"
+            android:background="@drawable/button_style"
+            android:padding="10dp"
+            android:textAllCaps="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_margin="10dp">
+
+
+           <EditText
+               android:id="@+id/numberofBloodBagsRId"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="How many bags of blood needed?"
+               android:textStyle="bold"
+               android:textColor="@color/white"
+               android:textSize="13dp"
+               android:padding="10dp"
+               android:textColorHint="@color/white"
+               android:layout_margin="10dp"
+               android:background="@drawable/edit_text_style"
+               android:inputType="number"/>
+
+
+           <EditText
+               android:id="@+id/phoneRBId"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="Enter your phone number"
+               android:textStyle="bold"
+               android:textColor="@color/white"
+               android:textSize="13dp"
+               android:padding="10dp"
+               android:textColorHint="@color/white"
+               android:layout_marginTop="20dp"
+               android:layout_margin = "10dp"
+               android:background="@drawable/edit_text_style"
+               android:inputType="number"/>
+
+           <EditText
+               android:id="@+id/addressRBId"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="Hospital/Adress"
+               android:textColorHint="@color/white"
+               android:textStyle="bold"
+               android:textColor="@color/white"
+               android:textSize="13dp"
+               android:padding="10dp"
+               android:layout_margin = "10dp"
+               android:inputType="textMultiLine"
+               android:background="@drawable/edit_text_style"/>
+
+           <EditText
+               android:id="@+id/descriptionRBId"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="Why do you need blood?"
+               android:textColorHint="@color/white"
+               android:textStyle="bold"
+               android:textColor="@color/white"
+               android:textSize="13dp"
+               android:padding="10dp"
+               android:layout_margin = "10dp"
+               android:inputType="textMultiLine"
+               android:background="@drawable/edit_text_style"/>
+
+
+
+
+       </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/sendRequestRBId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:text="Send Request"
+            android:padding="8dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/button_style"
+            android:layout_gravity="center"
+            android:textColor="#F3EEEE"
+            android:gravity="center"
+            android:textAllCaps="true"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

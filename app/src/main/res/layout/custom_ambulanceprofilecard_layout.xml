@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+    <EditText
+        android:id="@+id/nameAPId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zianur Rahman Joy"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:layout_margin = "5dp"/>
+
+
+    <EditText
+        android:id="@+id/locationAPId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="01673461416"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:layout_margin = "5dp"/>
+
+    <EditText
+        android:id="@+id/phoneAPId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="01673461416"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:layout_margin = "5dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:weightSum="2">
+
+
+        <TextView
+            android:id="@+id/cancelProfileButton"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:textSize="15sp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="3dp"
+            android:background="#B80707"/>
+
+        <TextView
+            android:id="@+id/updateProfileButton"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Update"
+            android:textSize="15sp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="3dp"
+            android:background="#149549"/>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

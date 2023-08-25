@@ -1,0 +1,245 @@
+<resources>
+
+    <string name="app_name">Platelet</string>
+
+    <string name="AboutApplication">Getting proper medical treatment in Bangladesh, is quiet tough.
+        Moreover, having an ambulance or a bag blood of a particular type is  same as the first one . To  make things easier,
+        we,  Zianur Rahman Joy and Nazmul Hasan, , are trying to make an android app that can decrease human sufferings.
+        This project is being done under the guidance of Prof. Dr. MD. Ali Hossain sir. This app is called "Platelet ".
+        In  this app one can have doctors appointment in "Appointment" section. Request for blood or donate blood under the "Blood" section.
+        "Telemedicine" section will allow users to have doctors far apart. "Ambulance" section will allow them to request for an ambulance.
+        Bangladesh is an underprivileged country.
+        Ensuring medical services will allow us to acquire the goals of Sustainable Development Goals (SDG). </string>
+
+
+    <string-array name="placeName">
+        <item>Select Place</item>
+        <item>Dhaka</item>
+        <item>Barishal</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Khulna</item>
+        <item>Jassore</item>
+        <item>Jhalokathi</item>
+        <item>Bagura</item>
+
+    </string-array>
+
+    <string-array name="placeNameH">
+        <item>Barishal</item>
+        <item>Jhalokathi</item>
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Khulna</item>
+        <item>Jassore</item>
+        <item>Bagura</item>
+
+    </string-array>
+
+
+    <string-array name="tipsNameString">
+        <item>Avoid sugar and sugary products</item>
+        <item>Avoid extra salt</item>
+        <item>Avoid junk foods</item>
+        <item>Keep yourself neat and clean</item>
+        <item>Maintain a healthy weight</item>
+        <item>Consuming healthy food and beverages</item>
+        <item>Move more and sit less throughout the day</item>
+        <item>Get adequate sleep</item>
+        <item>Consider eating more protein</item>
+        <item>Eat seasonal fruits more</item>
+        <item>Avoid tech neck</item>
+        <item>Optimise your TV time</item>
+        <item>Check your blood pressure regularly</item>
+        <item>Cover your mouth when coughing or sneezing</item>
+        <item>Prevent mosquito bites</item>
+        <item>Take antibiotics only as prescribed</item>
+        <item>Prepare your food correctly</item>
+        <item> Have regular checkups</item>
+
+    </string-array>
+
+
+    <string name="Avoidsugarandsugaryproducts"> Eating too much added sugar can
+have many negative health effects.An excess of sweetened foods and beverages can
+lead to weight gain, blood sugar problems and an increased risk of heart disease,
+among other dangerous conditions.For these reasons, added sugar should be kept to
+ a minimum whenever possible, which is easy when you follow a healthy diet based
+on whole foods.If you cut added sugar from your diet,before you know it, your sugar
+ habit will be a thing of the past.</string>
+
+    <string name="Avoidextrasalt">Salt is an essential ingredient in our cooking.
+Fruits, cooked meats or vegetables and even sweets, it improves the taste of almost
+everything we add it to.Salt is the primary source of sodium and increased
+consumption of sodium is associated with hypertension and increased risk of heart disease and stroke.
+For adults, WHO recommends that adults consume less than 5 g
+(just under a teaspoon) of salt per day. </string>
+
+    <string name="Avoidjunkfoods">Junk food is used to describe food and drinks low in nutrients
+(e.g. vitamins, minerals and fibre) and high in kilojoules, saturated fat, added sugar and/or
+added salt. They are also known as discretionary choices.Why is junk food bad?
+Eating junk food on a regular basis can lead to an increased risk of obesity and chronic
+diseases like cardiovascular disease, type 2 diabetes, non-alcoholic fatty liver disease
+and some cancers.Try to Avoid them as much as possible.  </string>
+
+    <string name="Keepyourselfneatandclean">Practicing good personal hygiene is important
+for helping keep the body healthy and clean.Good personal hygiene involves keeping all parts
+ of the external body clean and healthy. It is important for maintaining both physical and
+ mental health.In people with poor personal hygiene, the body provides an ideal environment
+for germs to grow, leaving it vulnerable to infection.On a social level, people may avoid a
+ person with poor personal hygiene, which may result in isolation and loneliness. </string>
+
+    <string name="Maintainahealthyweight">Reaching and maintaining a healthy weight is
+important for overall health and can help you prevent and control many diseases and
+conditions. If you are overweight or obese, you are at higher risk of developing serious
+health problems, including heart disease, high blood pressure, type 2 diabetes, gallstones,
+breathing problems, and certain cancers. That is why maintaining a healthy weight is so
+important: It helps you lower your risk for developing these problems, helps you feel good
+about yourself, and gives you more energy to enjoy life.  </string>
+
+    <string name="Consuminghealthyfoodandbeverages">Eating and drinking healthier makes a
+big difference to your body.Many people believe eating healthily is about dieting or eating less.
+In fact, it’s simply a case of eating more of what your body needs and less of what it
+doesn’t – what we call a balanced diet. That doesn’t have to mean boring or tasteless
+food though – and you can still snack on healthier alternatives, such as fruit, raw
+vegetables, rice cakes and fat-free yogurts. </string>
+
+    <string name="Movemoreandsitlessthroughouttheday">Working out in a gym or
+ playing a sport is great, but being active is about so much more than that. Think of
+it as how you can use your muscles more in your everyday life. If you drive to work,
+sit at a desk all day and use all the conveniences of modern life, you probably need
+to move more.Making the time to be active with our busy lives can be challenging, but
+start with 10 minutes and try to build up to at least half an hour of activity a day </string>
+
+    <string name="Getadequatesleep">Sleep is an essential function1 that allows your body and mind to recharge,
+leaving you refreshed and alert when you wake up. Healthy sleep also helps the body remain
+healthy and stave off diseases. Without enough sleep, the brain cannot function properly.
+This can impair your abilities2 to concentrate, think clearly, and process memories.Most
+adults require between seven and nine hours3 of nightly sleep. Children and teenagers need
+substantially more sleep, particularly if they are younger than five years of age. </string>
+
+    <string name="Considereatingmoreprotein">The health effects of fat and carbs are controversial.
+However, almost everyone agrees that protein is important.Most people eat enough protein to prevent
+deficiency, but some individuals would do better with a much higher protein intake.Numerous studies
+ suggest that a high-protein diet has major benefits for weight loss and metabolic health.If you
+need to lose weight, improve your metabolic health, or gain muscle mass and strength, make sure you’re
+ eating enough protein.</string>
+
+    <string name="Eatseasonalfruitsmore">Seasonal fruits have higher nutritional value because they are
+fresher and consumed closer to the harvesting period. Usually, antioxidants like folate, Vitamin C,
+and carotenes rapidly decline when stored for a longer period of time.Also, grocers buy out-of-season
+produce that has been preserved in wax, irradiated, and gassed to extend their shelf life.
+Always consume fruits as per their season because they are much more healthy and preservative-free. </string>
+
+    <string name="Avoidtechneck">When you’re working on a computer or looking down at your phone,
+the muscles in the back of the neck have to contract to hold your head up. The more you look down,
+the more the muscles have to work to keep your head up.A better way to sit is with the chair reclining
+ 25-30 degrees with a good lumbar support to prevent slouching. In this position, the discs in the back,
+as well as the neck, are subjected to much lower forces than in an upright position, and the muscles in
+the back of the neck no longer have to contract to hold your head up. </string>
+
+    <string name="OptimiseyourTVtime">Next time you’re sitting down to enjoy your favourite show, take the opportunity to do
+some stretching – it’ll help relieve muscle tightness, and help keep you flexible and pain-free. Try using
+resistance bands, which are a cheap and compact way to maximise your limbering up time. </string>
+
+    <string name="Checkyourbloodpressureregularly">Hypertension, or high blood pressure, is called
+a “silent killer”. This is because many people who have hypertension may not be aware of the problem as
+it may not have any symptoms. If left uncontrolled, hypertension can lead to heart, brain, kidney and other
+diseases. Have your blood pressure checked regularly by a health worker so you know your numbers. If your
+blood pressure is high, get the advice of a health worker. This is vital in the prevention and control of
+hypertension. </string>
+
+    <string name="Coveryourmouthwhencoughingorsneezing">Diseases such as influenza, pneumonia and
+tuberculosis are transmitted through the air. When an infected person coughs or sneezes, infectious
+agents may be passed on to others through airborne droplets. When you feel a cough or sneeze coming on,
+make sure you have covered your mouth with a face mask or use a tissue then dispose it carefully. If
+you do not have a tissue close by when you cough or sneeze, cover your mouth as much as possible with
+the crook (or the inside) of your elbow. </string>
+
+    <string name="Preventmosquitobites">Mosquitoes are one of the deadliest animals in the world.
+Diseases like dengue, chikungunya, malaria and lymphatic filariasis are transmitted by mosquitoes.
+You can take simple measures to protect yourself and your loved ones
+against mosquito-borne diseases. If you’re traveling to an area with known mosquito-borne diseases,
+consult a physician for a vaccine to prevent diseases such as Japanese encephalitis and yellow fever
+or if you need to take antimalarial medicines. Wear light-coloured, long-sleeved shirts and pants and
+use insect repellent. At home, use window and door screens, use bed nets and clean your surroundings
+weekly to destroy mosquito breeding sites. </string>
+
+    <string name="Takeantibioticsonlyasprescribed">Antibiotic resistance is one of the biggest public
+health threats in our generation. When antibiotics lose their power, bacterial infections become harder
+to treat, leading to higher medical costs, prolonged hospital stays, and increased mortality. Antibiotics
+are losing their power because of misuse and overuse in humans and animals. Make sure you only take
+antibiotics if prescribed by a qualified health professional. And once prescribed, complete the treatment
+days as instructed. Never share antibiotics. </string>
+
+    <string name="Prepareyourfoodcorrectly">Unsafe food containing harmful bacteria, viruses, parasites
+or chemical substances, causes more than 200 diseases – ranging from diarrhoea to cancers. When buying
+food at the market or store, check the labels or the actual produce to ensure it is safe to eat. If you
+are preparing food, make sure you follow the Five Keys to Safer Food: (1) keep clean; (2) separate raw
+and cooked; (3) cook thoroughly; (4) keep food at safe temperatures; and (5) use safe water and raw materials. </string>
+
+    <string name="Haveregularcheckups">Regular check-ups can help find health problems before they start.
+Health professionals can help find and diagnose health issues early, when your chances for treatment and
+cure are better. Go to your nearest health facility to check out the the health services, screenings and
+treatment that are accessible to you. </string>
+
+
+
+
+    <string-array name="status">
+        <item>Select Status</item>
+        <item>Ready to donate</item>
+        <item>Can not donate now</item>
+    </string-array>
+
+    <string-array name="dept">
+        <item>Select Dept</item>
+        <item>Medicine</item>
+        <item>Surgery</item>
+        <item>Dentist</item>
+        <item>Pediatric</item>
+        <item>Cardiology</item>
+        <item>Respiratory</item>
+        <item>Neurologist</item>
+        <item>Oncology</item>
+        <item>Urology</item>
+        <item>Psychiatrist</item>
+        <item>Hematology</item>
+        <item>other</item>
+
+    </string-array>
+
+    <string-array name="deptAppointment">
+        <item>Medicine</item>
+        <item>Surgery</item>
+        <item>Dentist</item>
+        <item>Pediatric</item>
+        <item>Cardiology</item>
+        <item>Respiratory</item>
+        <item>Neurologist</item>
+        <item>Oncology</item>
+        <item>Urology</item>
+        <item>Psychiatrist</item>
+        <item>Hematology</item>
+        <item>other</item>
+
+    </string-array>
+
+
+    <string-array name="bloodType">
+        <item>Select Blood Type</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
