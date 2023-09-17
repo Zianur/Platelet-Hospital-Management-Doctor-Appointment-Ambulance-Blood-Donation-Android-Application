@@ -1,6 +1,6 @@
 # Platelet-Hospital-Management-Doctor-Appointment-Ambulance-Blood-Donation-Android-Application
 
-# Screenshots
+
 
 # LogIn Page
 ![Screenshot_2023-09-18-03-59-23-392_com platelet](https://github.com/Zianur/Platelet-Hospital-Management-Doctor-Appointment-Ambulance-Blood-Donation-Android-Application/assets/61393202/669d7016-5d86-4477-a24e-5940c0d5e588)
